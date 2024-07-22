@@ -9,4 +9,4 @@ ui_page 'web/build/index.html'
 
 client_scripts { "client.lua"}
 
-files {'web/build/index.html', 'web/build/**/*', 'locales/*.json'}
+files {'web/build/index.html', 'web/build/**/*'}
